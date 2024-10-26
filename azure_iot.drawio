@@ -187,7 +187,7 @@
         <mxCell id="-C-B5iJ783mXRR9op9Xc-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-C-B5iJ783mXRR9op9Xc-59" target="-C-B5iJ783mXRR9op9Xc-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-C-B5iJ783mXRR9op9Xc-59" value="«Annotation»&lt;br&gt;&lt;b&gt;Data Storage System&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C-B5iJ783mXRR9op9Xc-59" value="«component»&lt;br&gt;&lt;b&gt;Data Storage System&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="601.7" y="770" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-C-B5iJ783mXRR9op9Xc-60" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-C-B5iJ783mXRR9op9Xc-59">
@@ -195,7 +195,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C-B5iJ783mXRR9op9Xc-61" value="«Annotation»&lt;br&gt;&lt;b&gt;Caching System&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C-B5iJ783mXRR9op9Xc-61" value="«component»&lt;br&gt;&lt;b&gt;Caching System&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="601.7" y="1050" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-C-B5iJ783mXRR9op9Xc-62" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-C-B5iJ783mXRR9op9Xc-61">
@@ -212,7 +212,7 @@
         <mxCell id="-C-B5iJ783mXRR9op9Xc-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="-C-B5iJ783mXRR9op9Xc-63" target="-C-B5iJ783mXRR9op9Xc-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-C-B5iJ783mXRR9op9Xc-63" value="«Annotation»&lt;br&gt;&lt;b&gt;Compute Cluster&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C-B5iJ783mXRR9op9Xc-63" value="«component»&lt;br&gt;&lt;b&gt;Compute Cluster&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="601.7" y="900" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-C-B5iJ783mXRR9op9Xc-64" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-C-B5iJ783mXRR9op9Xc-63">
@@ -220,7 +220,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C-B5iJ783mXRR9op9Xc-65" value="«Annotation»&lt;br&gt;&lt;b&gt;Row Store&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C-B5iJ783mXRR9op9Xc-65" value="«component»&lt;br&gt;&lt;b&gt;Row Store&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="361.7" y="770" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-C-B5iJ783mXRR9op9Xc-66" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-C-B5iJ783mXRR9op9Xc-65">
@@ -231,7 +231,7 @@
         <mxCell id="-C-B5iJ783mXRR9op9Xc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-C-B5iJ783mXRR9op9Xc-67" target="-C-B5iJ783mXRR9op9Xc-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-C-B5iJ783mXRR9op9Xc-67" value="«Annotation»&lt;br&gt;&lt;b&gt;Query Execution Engine&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C-B5iJ783mXRR9op9Xc-67" value="«component»&lt;br&gt;&lt;b&gt;Query Execution Engine&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="361.70000000000005" y="900" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-C-B5iJ783mXRR9op9Xc-68" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-C-B5iJ783mXRR9op9Xc-67">
@@ -239,7 +239,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C-B5iJ783mXRR9op9Xc-69" value="«Annotation»&lt;br&gt;&lt;b&gt;Indexing System&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C-B5iJ783mXRR9op9Xc-69" value="«component»&lt;br&gt;&lt;b&gt;Indexing System&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="361.70000000000005" y="1050" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-C-B5iJ783mXRR9op9Xc-70" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-C-B5iJ783mXRR9op9Xc-69">
@@ -256,7 +256,7 @@
         <mxCell id="-C-B5iJ783mXRR9op9Xc-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-C-B5iJ783mXRR9op9Xc-71" target="-C-B5iJ783mXRR9op9Xc-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-C-B5iJ783mXRR9op9Xc-71" value="«Annotation»&lt;br&gt;&lt;b&gt;Control Plane&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C-B5iJ783mXRR9op9Xc-71" value="«component»&lt;br&gt;&lt;b&gt;Control Plane&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="916.7" y="900" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-C-B5iJ783mXRR9op9Xc-72" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-C-B5iJ783mXRR9op9Xc-71">

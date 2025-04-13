@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="zzx9vncP7qMIxzlKidM1">
-    <mxGraphModel>
+    <mxGraphModel dx="1214" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FuxYZ5CNECJjs5ld3svG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="FuxYZ5CNECJjs5ld3svG-1" target="FuxYZ5CNECJjs5ld3svG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FuxYZ5CNECJjs5ld3svG-1" value="Business Fit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FuxYZ5CNECJjs5ld3svG-3" value="&lt;div&gt;- Business-IT alignment&lt;/div&gt;&lt;div&gt;- Functional mismatch&lt;/div&gt;&lt;div&gt;- Strategic fit&lt;/div&gt;&lt;div&gt;- Process inflexibility&lt;/div&gt;&lt;div&gt;- Obsolete requirements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FuxYZ5CNECJjs5ld3svG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="FuxYZ5CNECJjs5ld3svG-5" target="FuxYZ5CNECJjs5ld3svG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FuxYZ5CNECJjs5ld3svG-5" value="Innovation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FuxYZ5CNECJjs5ld3svG-6" value="&lt;div&gt;- Innovation constraints&lt;/div&gt;&lt;div&gt;- Digital transformation&lt;/div&gt;&lt;div&gt;- Emerging technologies&lt;/div&gt;&lt;div&gt;- Integration barriers&lt;/div&gt;&lt;div&gt;- Cloud-native enablement&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="180" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -31,7 +31,7 @@
         <mxCell id="FuxYZ5CNECJjs5ld3svG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;endArrow=block;endFill=1;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="FuxYZ5CNECJjs5ld3svG-9" target="FuxYZ5CNECJjs5ld3svG-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FuxYZ5CNECJjs5ld3svG-9" value="Innovation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontColor=#FFFFFF;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="FuxYZ5CNECJjs5ld3svG-9" value="Agility" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontColor=#FFFFFF;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="60" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuxYZ5CNECJjs5ld3svG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;strokeColor=#00FF00;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1" source="FuxYZ5CNECJjs5ld3svG-12" target="FuxYZ5CNECJjs5ld3svG-13">

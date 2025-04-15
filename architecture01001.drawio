@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="Z0E2UFh90GnDvaUnilbR">
-    <mxGraphModel dx="3293" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4170" dy="1563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,78 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="644" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-9" value="Databricks" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/mscae/Databricks.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1148.5" y="514" width="100" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-10" value="Azure&lt;div&gt;Synapse Analytics&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1422.99" y="510" width="86.97" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-11" value="Azure&lt;div&gt;Data Factory&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/databases/Data_Factory.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1930" y="712" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-14" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Orchestration of ETL/ELT Pipelines: Moving and transforming data from various sources (e.g., on-prem SQL, Azure services, APIs) to destinations.&lt;/li&gt;&lt;li&gt;Lightweight Data Integration: Simple and cost-effective solution for basic data movement and transformation tasks.&lt;/li&gt;&lt;li&gt;Drag-and-Drop Workflows: Easy-to-use interface for creating pipelines without extensive coding.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1801" y="680" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-15" value="&lt;ol&gt;&lt;li&gt;End-to-End Analytics: Unified platform for data integration, big data, and data warehousing.&lt;/li&gt;&lt;li&gt;Advanced SQL Queries: Running complex SQL queries using serverless or dedicated SQL pools.&lt;/li&gt;&lt;li&gt;Data Warehousing: Storing structured and semi-structured data for efficient querying and business intelligence.&lt;/li&gt;&lt;li&gt;Integrated Notebooks: Running custom code and notebooks for advanced analytics.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="880" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-16" value="&lt;ol&gt;&lt;li&gt;Data Science and Machine Learning: Training machine learning models on large datasets using Apache Spark.&lt;/li&gt;&lt;li&gt;Collaborative Notebooks: Collaborative environment for data scientists and engineers to work on notebooks.&lt;/li&gt;&lt;li&gt;Advanced Analytics: Performing advanced analytics and data transformations using Spark.&lt;/li&gt;&lt;li&gt;Delta Lake Integration: Ensuring ACID transactions and time travel capabilities for data lakes.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1239" y="1080" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-18" value="&lt;ol&gt;&lt;li&gt;ETL Pipelines with Advanced Analytics: Building ETL pipelines in ADF to load raw data into Synapse, followed by advanced analytics and querying in Synapse.&lt;/li&gt;&lt;li&gt;Data Warehousing and Reporting: Moving data using ADF and storing it in Synapse for data warehousing and BI reporting.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="680" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-19" value="&lt;ol&gt;&lt;li&gt;Orchestrated Data Processing: Orchestrating pipelines in ADF that trigger Databricks notebooks to process and clean data, such as IoT data.&lt;/li&gt;&lt;li&gt;Data Transformation and Cleaning: Using ADF to move data and Databricks to transform and clean it.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1239" y="680" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-20" value="&lt;ol&gt;&lt;li&gt;Large-Scale Data Transformation: Transforming large datasets in Databricks and loading the results into Synapse for ad-hoc analytics using Spark and SQL pools.&lt;/li&gt;&lt;li&gt;Integrated Analytics: Combining the strengths of Synapse for SQL queries and Databricks for Spark-based transformations.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1239" y="880" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-21" value="Azure&lt;div&gt;Data Factory&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/databases/Data_Factory.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1710.5" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-22" value="&lt;ol&gt;&lt;li&gt;Comprehensive Data Workflow: Moving data using ADF, cleaning and transforming it in Databricks, and storing and analyzing it in Synapse.&lt;/li&gt;&lt;li&gt;End-to-End Data Engineering: Creating a complete data engineering pipeline that leverages ADF for orchestration, Databricks for advanced analytics and machine learning, and Synapse for data warehousing and reporting.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1801" y="280" width="841" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-23" value="Databricks" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/mscae/Databricks.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1128.5" y="1854" width="100" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-24" value="Azure&lt;div&gt;Synapse Analytics&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1402.99" y="1850" width="86.97" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-25" value="Azure&lt;div&gt;Data Factory&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/databases/Data_Factory.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1910" y="2052" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-26" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Orchestration of ETL/ELT Pipelines.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Lightweight Data Integration.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Drag-and-Drop Workflows.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=19;fontFamily=Verdana;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1781" y="2020" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-27" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;End-to-End Analytics.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Advanced SQL Queries.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data Warehousing.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Integrated Notebooks.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontFamily=Verdana;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="2220" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-28" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data Science and Machine Learning.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Collaborative Notebooks.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Advanced Analytics.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Delta Lake Integration.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontFamily=Verdana;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1219" y="2420" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-29" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ETL Pipelines with Advanced Analytics.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data Warehousing and Reporting.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="2020" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-30" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Orchestrated Data Processing.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data Transformation and Cleaning.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1219" y="2020" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-31" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Large-Scale Data Transformation.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Integrated Analytics.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1219" y="2220" width="281" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-32" value="Azure&lt;div&gt;Data Factory&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/databases/Data_Factory.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1690.5" y="1850" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-33" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Comprehensive Data Workflow: Moving data using ADF, cleaning and transforming it in Databricks, and storing and analyzing it in Synapse.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;End-to-End Data Engineering: Creating a complete data engineering pipeline that leverages ADF for orchestration, Databricks for advanced analytics and machine learning, and Synapse for data warehousing and reporting.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=2;spacingBottom=2;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontSize=12;fontFamily=Verdana;fillColor=none;fontColor=#333333;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1779" y="1640" width="841" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-34" value="Azure&lt;div&gt;Synapse Analytics&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1903.49" y="2270" width="86.97" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDAeEBTVQ4kqPT64tdj7-35" value="Databricks" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/mscae/Databricks.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-1910" y="2472" width="100" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -31,13 +31,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-11" value="Configuration&lt;div&gt;Database&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="720" width="48" height="64" as="geometry" />
+          <mxGeometry x="80" y="570" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-12" value="Key Vault" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
-          <mxGeometry x="80" y="720" width="68" height="68" as="geometry" />
+          <mxGeometry x="280" y="865.44" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-13" value="Azure Monitor" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
-          <mxGeometry x="210" y="724" width="64" height="64" as="geometry" />
+          <mxGeometry x="50" y="868.22" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ppqx5CxX8cZWIrjsD8Ra-14" value="Entra&lt;div&gt;Identity&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Entra_Identity.svg;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="870.5" width="68" height="60.440000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="ppqx5CxX8cZWIrjsD8Ra-15" value="Azure&lt;div&gt;DevOps&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="868.22" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ppqx5CxX8cZWIrjsD8Ra-16" value="Cost&amp;nbsp;&lt;div&gt;Management&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Management.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="869.44" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppqx5CxX8cZWIrjsD8Ra-17" value="Application&amp;nbsp;&lt;div&gt;Insights&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="171" y="867.94" width="44" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="ppqx5CxX8cZWIrjsD8Ra-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="820" width="710" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ppqx5CxX8cZWIrjsD8Ra-19" value="Platform Services" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-70" y="830" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="Z0E2UFh90GnDvaUnilbR">
-    <mxGraphModel dx="3368" dy="2228" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="1214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,22 +37,22 @@
           <mxGeometry x="-30" y="730" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-12" value="Key Vault" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" parent="1" vertex="1">
-          <mxGeometry x="185" y="901" width="68" height="68" as="geometry" />
+          <mxGeometry x="185" y="901" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-13" value="Azure Monitor" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" parent="1" vertex="1">
-          <mxGeometry x="286" y="1116.44" width="64" height="64" as="geometry" />
+          <mxGeometry x="286" y="1116.44" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-14" value="Entra&lt;div&gt;Identity&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Entra_Identity.svg;" parent="1" vertex="1">
-          <mxGeometry x="175" y="1120" width="68" height="60.440000000000005" as="geometry" />
+          <mxGeometry x="175" y="1120" width="67.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-15" value="Azure&lt;div&gt;DevOps&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" parent="1" vertex="1">
-          <mxGeometry x="175" y="1321" width="64" height="64" as="geometry" />
+          <mxGeometry x="175" y="1321" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-16" value="Cost&amp;nbsp;&lt;div&gt;Management&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Management.svg;" parent="1" vertex="1">
-          <mxGeometry x="419" y="1118.44" width="67" height="60" as="geometry" />
+          <mxGeometry x="393" y="1116.44" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppqx5CxX8cZWIrjsD8Ra-17" value="Application&amp;nbsp;&lt;div&gt;Insights&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" parent="1" vertex="1">
-          <mxGeometry x="438" y="903" width="44" height="63" as="geometry" />
+          <mxGeometry x="438" y="903" width="41.9" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EDAeEBTVQ4kqPT64tdj7-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
           <mxGeometry x="80" y="604" width="65" height="52" as="geometry" />
@@ -71,10 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eis6bmfaRmwuvMi5byEp-1" value="Log Analytics&lt;div&gt;Workspaces&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
-          <mxGeometry x="320" y="903" width="64" height="64" as="geometry" />
+          <mxGeometry x="320" y="903" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eis6bmfaRmwuvMi5byEp-2" value="Microsoft&lt;div&gt;Defender&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;" parent="1" vertex="1">
-          <mxGeometry x="534" y="1116.44" width="56.00000000000001" height="68" as="geometry" />
+          <mxGeometry x="534" y="1116.44" width="49.41" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eis6bmfaRmwuvMi5byEp-3" value="Lifecycle" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="175" y="1256" width="249" height="30" as="geometry" />
@@ -86,10 +86,10 @@
           <mxGeometry x="189" y="850" width="249" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eis6bmfaRmwuvMi5byEp-14" value="Azure Policy" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Policy.svg;" parent="1" vertex="1">
-          <mxGeometry x="646" y="1131" width="45" height="50" as="geometry" />
+          <mxGeometry x="646" y="1131" width="54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eis6bmfaRmwuvMi5byEp-15" value="Microsoft Sentinel" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
-          <mxGeometry x="755" y="1143" width="44" height="50" as="geometry" />
+          <mxGeometry x="755" y="1143" width="52.8" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

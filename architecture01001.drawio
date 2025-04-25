@@ -94,13 +94,13 @@
         <mxCell id="eis6bmfaRmwuvMi5byEp-15" value="Microsoft Sentinel" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;" parent="1" vertex="1">
           <mxGeometry x="899.27" y="1374" width="52.8" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BPonUfFsL8PhHUS4vsPm-5" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+        <mxCell id="BPonUfFsL8PhHUS4vsPm-5" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="471" y="1221" as="sourcePoint" />
             <mxPoint x="1000" y="1221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BPonUfFsL8PhHUS4vsPm-6" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+        <mxCell id="BPonUfFsL8PhHUS4vsPm-6" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="469" y="1493" as="sourcePoint" />
             <mxPoint x="998" y="1493" as="targetPoint" />

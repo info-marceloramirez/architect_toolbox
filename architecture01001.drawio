@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jQgDSVJSWbTaEZrWFXmQ-7" value="Azure Synapse Analytics" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;" vertex="1" parent="1">
-          <mxGeometry x="-599.88" y="1430" width="60" height="69.01" as="geometry" />
+          <mxGeometry x="-598.88" y="1430" width="60" height="69.01" as="geometry" />
         </mxCell>
         <mxCell id="jQgDSVJSWbTaEZrWFXmQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;exitX=0.522;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="EDAeEBTVQ4kqPT64tdj7-3" target="jQgDSVJSWbTaEZrWFXmQ-7">
           <mxGeometry relative="1" as="geometry">

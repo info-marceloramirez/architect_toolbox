@@ -135,6 +135,9 @@
             <mxPoint x="307" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jQgDSVJSWbTaEZrWFXmQ-15" value="Funcition&amp;nbsp;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="369" y="640" width="60" height="52.94" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

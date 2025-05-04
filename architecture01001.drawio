@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="Z0E2UFh90GnDvaUnilbR">
-    <mxGraphModel dx="3019" dy="1214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3723" dy="1389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-60" value="Forecast Serving" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="-838.23" y="1834" width="206.23" height="526" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-61" value="Forecast Modeling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="-1304" y="1834" width="445" height="526" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-59" value="Feature Engineering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="-1722" y="1834" width="399" height="526" as="geometry" />
+        </mxCell>
         <mxCell id="VQ0Pc8evoxNi4EBnxErp-4" value="Feature Engineering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="-1096" y="1126" width="543" height="428" as="geometry" />
         </mxCell>
@@ -266,7 +275,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ITFiKNBu0sTEjrs2_EdW-23" value="«Component»&lt;br&gt;&lt;b&gt;Storage System&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="2182" width="180" height="80" as="geometry" />
+          <mxGeometry x="-1520" y="2257" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ITFiKNBu0sTEjrs2_EdW-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ITFiKNBu0sTEjrs2_EdW-23">
           <mxGeometry x="1" width="21" height="20" relative="1" as="geometry">
@@ -310,19 +319,6 @@
         <mxCell id="ITFiKNBu0sTEjrs2_EdW-39" value="Triggers Processes" style="ellipse;whiteSpace=wrap;html=1;align=left;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-1435" y="1970" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-40" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-42" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1269" y="2052" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-41" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-42" parent="1" source="ITFiKNBu0sTEjrs2_EdW-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1309" y="2052" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-42" value="Stores Ingested Datasets" style="ellipse;whiteSpace=wrap;html=1;align=left;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1435" y="2134" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="ITFiKNBu0sTEjrs2_EdW-43" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-45" parent="1" source="ITFiKNBu0sTEjrs2_EdW-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1076" y="1999" as="sourcePoint" />
@@ -349,53 +345,76 @@
         <mxCell id="ITFiKNBu0sTEjrs2_EdW-48" value="&lt;span style=&quot;text-align: left;&quot;&gt;Triggers Processes&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=left;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-1205" y="1910" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-49" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-51" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1186" y="1984" as="sourcePoint" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-67" value="«aggregate»&lt;br&gt;&lt;div&gt;Raw Data&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1699" y="2030" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-68" value="«aggregate»&lt;br&gt;&lt;div&gt;Feature Dataset&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1485" y="2151" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-69" value="«aggregate»&lt;br&gt;&lt;div&gt;Forecast Model&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1023" y="2151" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-70" value="«aggregate»&lt;br&gt;&lt;div&gt;Horizon Forecast Dataset&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1255" y="2151" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-71" value="«aggregate»&lt;br&gt;&lt;div&gt;Forecast Batch Dataset&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="2292" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-74" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-17" target="ITFiKNBu0sTEjrs2_EdW-67">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1362" y="2138" as="sourcePoint" />
+            <mxPoint x="-1632" y="2051" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-51" parent="1" source="ITFiKNBu0sTEjrs2_EdW-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1226" y="1984" as="sourcePoint" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-75" value="Creates" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-17" target="ITFiKNBu0sTEjrs2_EdW-68">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1510" y="2065" as="sourcePoint" />
+            <mxPoint x="-1608" y="2065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-51" value="Stores Forecast Model" style="ellipse;whiteSpace=wrap;html=1;align=left;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;labelPosition=right;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-1205" y="2197" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-52" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-54" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1187" y="2275" as="sourcePoint" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-76" value="Stores" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23" target="ITFiKNBu0sTEjrs2_EdW-68">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1510" y="2065" as="sourcePoint" />
+            <mxPoint x="-1608" y="2065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-53" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-54" parent="1" source="ITFiKNBu0sTEjrs2_EdW-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1226" y="1984" as="sourcePoint" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-77" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-71" target="ITFiKNBu0sTEjrs2_EdW-29">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1510" y="2065" as="sourcePoint" />
+            <mxPoint x="-1608" y="2065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-54" value="Stores Horizon Forecast Dataset" style="ellipse;whiteSpace=wrap;html=1;align=left;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;labelPosition=right;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-973" y="2217" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-55" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-57" parent="1" source="ITFiKNBu0sTEjrs2_EdW-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1186" y="1984" as="sourcePoint" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-78" value="Creates" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-27" target="ITFiKNBu0sTEjrs2_EdW-70">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1420" y="2105" as="sourcePoint" />
+            <mxPoint x="-1420" y="2161" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-56" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="ITFiKNBu0sTEjrs2_EdW-57" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1300" y="2313" as="sourcePoint" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-80" value="Creates" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-25" target="ITFiKNBu0sTEjrs2_EdW-69">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1190" y="2105" as="sourcePoint" />
+            <mxPoint x="-1190" y="2161" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-57" value="Consumes Forecast Batch Dataset" style="ellipse;whiteSpace=wrap;html=1;align=left;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;labelPosition=right;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-741" y="2238" width="10" height="10" as="geometry" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-81" value="Stores" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23" target="ITFiKNBu0sTEjrs2_EdW-70">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1420" y="2267" as="sourcePoint" />
+            <mxPoint x="-1420" y="2211" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-59" value="Feature Engineering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-1542" y="1834" width="219" height="457" as="geometry" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-82" value="Stores" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23" target="ITFiKNBu0sTEjrs2_EdW-69">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1330" y="2307" as="sourcePoint" />
+            <mxPoint x="-1190" y="2211" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-60" value="Forecast Serving" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-838.23" y="1834" width="206.23" height="457" as="geometry" />
-        </mxCell>
-        <mxCell id="ITFiKNBu0sTEjrs2_EdW-61" value="Forecast Modeling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-1304" y="1834" width="445" height="457" as="geometry" />
+        <mxCell id="ITFiKNBu0sTEjrs2_EdW-83" value="Stores" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITFiKNBu0sTEjrs2_EdW-23" target="ITFiKNBu0sTEjrs2_EdW-71">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1330" y="2307" as="sourcePoint" />
+            <mxPoint x="-958" y="2211" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
